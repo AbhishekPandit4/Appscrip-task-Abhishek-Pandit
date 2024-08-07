@@ -1,0 +1,43 @@
+
+.discover-products {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .discover-products h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .discover-products p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Responsive design for tablets */
+  @media (max-width: 768px) {
+    .discover-products h1 {
+      font-size: 36px;
+    }
+  
+    .discover-products p {
+      font-size: 16px;
+    }
+  }
+  
+  /* Responsive design for mobile phones */
+  @media (max-width: 480px) {
+    .discover-products {
+      padding: 20px;
+    }
+  
+    .discover-products h1 {
+      font-size: 24px;
+    }
+  
+    .discover-products p {
+      font-size: 14px;
+    }
+  }
+  

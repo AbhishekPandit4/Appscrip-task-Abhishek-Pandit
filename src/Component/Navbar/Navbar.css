@@ -1,0 +1,41 @@
+    .nav-container{
+        height: 88px;
+        width: 1248px;
+        background-color: #FFFF;
+        
+        
+    }
+    .nav-main-left{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    .nav-left-text{
+        display: flex;
+        height: 90px;
+        width: 40px;
+        align-items: center;
+        
+    }
+    .nav-hide-show-btn{
+        height: 40px;
+        width: 130px;
+
+    }
+    .nav-left-img{
+        height: 16px;
+        color: #E5E5E5;
+        
+    }
+    .nav-hide-btn{
+        text-decoration: underline;
+        color: #E5E5E5;
+        margin-right: 10px;
+
+    }
+    .nav-dropdwon{
+        height: 40px;
+        border: none;
+        outline: none;
+    }
